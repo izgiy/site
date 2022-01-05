@@ -1,0 +1,17 @@
+h1{font-family: 'Shizuru', cursive;
+    margin-left: 100px;
+font-size:40px;}
+.book{font-family: 'The Nautigal', cursive;
+font-size: 40px;}
+ol{font-family: 'The Nautigal', cursive;
+font-size: 30px;}
+p{font-family: 'Shizuru', cursive;
+font-size: 38px;
+rgb(255, 89, 89);}
+video{
+    max-width: 425px;
+    width: 100%;
+    border: 1px solid rgb(53, 39, 39);
+    width: 100%;
+}
+   body{color:rgb(255, 89, 89);}
